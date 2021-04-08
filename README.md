@@ -10,5 +10,6 @@ Express.JS	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	
 ## 🤝 Connect with me: 
  [![](https://img.shields.io/static/v1?label&message=Linkedin&color=black&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/) 
  [![](https://img.shields.io/static/v1?label&message=Email&color=black&logo=gmail)](mailto:sholle7@gmail.com)
-
-Things that I am learning:  Mapbox
+ 
+## 📌 Things that I am learning: 
+ Mapbox
