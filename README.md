@@ -3,6 +3,6 @@
 ## 💻Technologies     
 Express.JS	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	●	Ant Design	●	Whimsical	●	JavaScript ● HTML	●	CSS	●	LESS	●	SQLite	●	PostgreSQL
 
-Find me on LinkedIn: https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/
+## 🤝 Connect with me: [![] (https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/) ![]
 
 Things that I am learning:  Mapbox
