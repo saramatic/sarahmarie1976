@@ -16,4 +16,4 @@ Express.JS	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	
 ## 📚 Things that I am learning: 
  Mapbox
  
-![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=buefy&layout=compact&hide_border=true)
+![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=omni=compact&hide_border=true)
