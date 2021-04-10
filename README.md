@@ -14,7 +14,7 @@
 Express.js	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	●	Ant Design	●	Whimsical	●	JavaScript ● HTML	●	CSS	●	LESS	●	SQLite	●	PostgreSQL
 
 
-<img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" />  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=express.node.js&logoColor=green" style="margin:5px" />  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=orange" style="margin:5px" />
+<img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" />  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=express.node.js&logoColor=green" style="margin:5px" />  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=orange" style="margin:5px" /> <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jwt&logoColor=black" style="margin:5px" /> <img src="https://img.shields.io/badge/-Knex.js-orange?style=for-the-badge&logo=KNEX.JS&logoColor=black" style="margin:5px" />
 
 ## 🤝 Connect with me: 
  
