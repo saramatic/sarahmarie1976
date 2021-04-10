@@ -13,6 +13,7 @@ Express.JS	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	
  
 [![](https://img.shields.io/static/v1?label&message=Linkedin&color=blue&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
 [![](https://img.shields.io/static/v1?label&message=Email&color=gray&logo=gmail)](mailto:sholle7@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahmarie1976)
  
 ## 📚 Things that I am learning: 
  Mapbox
