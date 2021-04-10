@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://gfycat.com/damagedimportantamurratsnake"/></p>
 
 ![](https://img.shields.io/github/followers/sarahmarie1976?style=social) 
 
@@ -10,7 +10,7 @@
 Express.js	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	●	Ant Design	●	Whimsical	●	JavaScript ● HTML	●	CSS	●	LESS	●	SQLite	●	PostgreSQL
 
 
-<img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" /> ● <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=express.node.js&logoColor=green" style="margin:5px" /> ● <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=orange" style="margin:5px" />
+<img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" />  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=express.node.js&logoColor=green" style="margin:5px" />  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=orange" style="margin:5px" />
 
 ## 🤝 Connect with me: 
  
