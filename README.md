@@ -11,6 +11,7 @@ Express.js	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	
 
 
 <img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" />
+<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=express.node.js&logoColor=green" style="margin:5px" />
 
 ## 🤝 Connect with me: 
  
