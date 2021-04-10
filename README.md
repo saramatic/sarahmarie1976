@@ -10,8 +10,10 @@
 Express.JS	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	●	Ant Design	●	Whimsical	●	JavaScript ● HTML	●	CSS	●	LESS	●	SQLite	●	PostgreSQL
 
 ## 🤝 Connect with me: 
- [![](https://img.shields.io/static/v1?label&message=Linkedin&color=black&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/) 
- [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/sarahmarie-hollenstein-258374115/)](www.linkedin.com/in/sarahmarie-hollenstein-258374115/) 
+ [![](https://img.shields.io/static/v1?label&message=Linkedin&color=blue?style=flat-square&logo=Linkedin&logoColor=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
+ [![](https://img.shields.io/static/v1?label&message=Linkedin&color=black&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
+ 
+
 
  [![](https://img.shields.io/static/v1?label&message=Email&color=black&logo=gmail)](mailto:sholle7@gmail.com)
  
