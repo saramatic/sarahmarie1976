@@ -9,6 +9,9 @@
 ## 💻Languages and Tools    
 Express.js	●	Node.JS	●	Postman	●	JWT	●	Knex.JS ● React	●	ReactStrap	●	Ant Design	●	Whimsical	●	JavaScript ● HTML	●	CSS	●	LESS	●	SQLite	●	PostgreSQL
 
+
+<img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express.js%2B%2B&logoColor=blue" style="margin:5px" />
+
 ## 🤝 Connect with me: 
  
 [![](https://img.shields.io/static/v1?label&message=Linkedin&color=blue&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
