@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center"><img src="https://thumbs.gfycat.com/BaggyUnfinishedFlycatcher-size_restricted.gif"/></p>
 
 
