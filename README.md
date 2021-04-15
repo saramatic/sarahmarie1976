@@ -27,7 +27,7 @@
 
  
 ## 📚 Things that I am learning: 
- Mapbox
+ Mapbox,  
  Okta
  
  ## GitHub Stats
