@@ -23,10 +23,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4F44D6)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
 [![Email Badge](https://img.shields.io/badge/Email-Gmail-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:sholle7@gmail.com)
 [![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](https://github.com/sarahmarie1976)
- 
-[![](https://img.shields.io/static/v1?label&message=Linkedin&color=blue&logo=linkedin)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
-[![](https://img.shields.io/static/v1?label&message=Email&color=gray&logo=gmail)](mailto:sholle7@gmail.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahmarie1976)
+[![Twitter](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](https://twitter.com/sholle7)
+
  
 ## 📚 Things that I am learning: 
  Mapbox
