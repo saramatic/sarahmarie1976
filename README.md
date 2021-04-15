@@ -21,7 +21,7 @@
 ## 🤝 Connect with me: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4F44D6)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
-[![Email Badge](https://img.shields.io/badge/Email-Gmail-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:sholle7@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:sholle7@gmail.com)
 [![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=4F44D6)](https://github.com/sarahmarie1976)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=4F44D6)](https://twitter.com/sholle7)
 
