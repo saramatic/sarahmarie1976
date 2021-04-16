@@ -33,6 +33,6 @@
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true)
 
-
+img src="https://profile-counter.glitch.me/sarahmarie1976/count.svg&logoColor=white&color=4F44D6" style="margin:5px">
 
 ![Visitor Count](https://profile-counter.glitch.me/sarahmarie1976/count.svg)
