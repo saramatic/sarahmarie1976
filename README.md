@@ -35,6 +35,6 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/sarahmarie1976/count.svg)
-![Profile views](https://gpvc.arturio.dev/sarahmarie1976)
+
+![Profile views](https://gpvc.arturio.dev/sarahmarie1976?style=flat&logo=counterr&logoColor=white&color=4F44D6)
 
