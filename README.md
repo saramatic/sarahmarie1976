@@ -36,5 +36,5 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sarahmarie1976/count.svg)
-[![Visitor Count](https://img.shields.io/badge/Github-Views-informational?style=flat&logo=twitter&logoColor=white&color=4F44D6)](https://profile-counter.glitch.me/sarahmarie1976/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me-informational?style=flat&logo=twitter&logoColor=white&color=4F44D6)](https://profile-counter.glitch.me/sarahmarie1976/count.svg)
 
