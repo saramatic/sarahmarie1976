@@ -36,5 +36,5 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/sarahmarie1976?style=flat&logo=counterr&logoColor=white&color=4F44D6)
+![Profile views](https://gpvc.arturio.dev/sarahmarie1976)
 
