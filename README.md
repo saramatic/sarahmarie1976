@@ -37,3 +37,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarahmarie1976&label=Profile%20views&color=4F44D6&style=flat" alt="sarahmarie1976" /> </p>
+![Profile views](https://gpvc.arturio.dev/sarahmarie1976&label=Profile%20views&color=4F44D6&style=flat)
