@@ -28,7 +28,9 @@
  
 ## 📚 Things that I am learning: 
  Mapbox,  
- Okta
+ Okta, 
+ AWS, 
+ Figma
  
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true)
