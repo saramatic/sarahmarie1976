@@ -29,6 +29,7 @@
 ## 📚 Things that I am learning: 
  
  Tailwindcss,  
+ Tailwindcss,
  Next.js, 
  AWS, 
  Procreate
