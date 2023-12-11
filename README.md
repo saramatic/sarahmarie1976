@@ -1,4 +1,4 @@
-<p align="center"><img src="(https://thumbs.gfycat.com/BaggyUnfinishedFlycatcher-size_restricted.gif](https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif)"/></p>
+<p align="center"><img src="[https://thumbs.gfycat.com/BaggyUnfinishedFlycatcher-size_restricted.gif](https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif]"/></p>
 
 
 
