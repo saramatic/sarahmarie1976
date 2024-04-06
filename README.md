@@ -1,5 +1,4 @@
-
-<p align="center"><img src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif"></p><p align="center"><img src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="50%"></p>
+<p align="center"><img src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="75%"></p>
 
 
 
