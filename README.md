@@ -1,4 +1,5 @@
-<p align="center"><img src="[[https://thumbs.gfycat.com/BaggyUnfinishedFlycatcher-size_restricted.gif](https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif](https://gifdb.com/gif/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.html?embed=true)]"/></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/BaggyUnfinishedFlycatcher-size_restricted.gif"></p>
 
 
 
@@ -28,10 +29,9 @@
  
 ## 📚 Things that I am learning: 
  
- Tailwindcss,
- Next.js, 
- AWS, 
- Procreate
+ Python,
+ Java,
+ Watercolor painting
  
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true)
