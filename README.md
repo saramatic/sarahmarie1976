@@ -1,43 +1,89 @@
-<p align="center"><img src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="35%"></p>
+### Hi there 👋  
+### I'm Sarahmarie Hollenstein!
 
 
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahmarie1976)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sholle7@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sholle7)
 
+Welcome to my GitHub page! I am Sarahmarie Hollenstein, a creative soul passionate about DIYs, cooking, drawing, and coding. I love exploring the creativity in programming and building projects that combine both my technical and artistic skills. I am a team player and always eager to learn more!
 
+<table>
+<tr>
+<td valign="top" width="60%">
 
-![](https://img.shields.io/github/followers/sarahmarie1976?style=social) 
+#### 🌱 Things I am currently working on:
+- Enhancing my skills in backend development using Node.js, Express.js, and SQL.
+- Learning more about Python and Java.
+- Exploring watercolor painting techniques.
 
-# Hi 👋, My Name is Sarahmarie Hollenstein
+#### :muscle: Things I am challenging myself with:
+- Building new web applications using React and Redux.
+- Practicing database design with PostgreSQL and SQLite.
+- Developing creative coding skills and contributing to open-source projects.
 
- I am very creative, I love DIYs, cooking, and drawing... So I decided to become a Full Stack Developer! (I always thought programming was all about rules, but my programming friends keep telling me that there is a lot of creativity in coding. And they are right!) Just seeing what HTML, CSS and React can do in real-time has made me really excited to learn more. And once I got to the backend, seeing how tables and ER diagrams work just pieced everything together. I am a team player willing to help however I can. And I am really enjoying the journey so far.
+#### 📚 Things that I am learning: 
+- Python, Java, Watercolor painting
 
-## 🖥️Languages and Tools    
+#### 🎓 Education:
+- Completed a Full Stack Web Development program at [Bloom Institute of Technology (BloomTech)](https://www.bloomtech.com) (formerly Lambda School).
 
-<img src="https://img.shields.io/badge/BackEnd-Express.js-informational?style=flat&logo=express.js&logoColor=white&color=4F44D6" style="margin:5px"> <img src="https://img.shields.io/badge/BackEnd-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4F44D6" style="margin:5px" />  <img src="https://img.shields.io/badge/BackEnd Security-Helmet.js-informational?style=flat&logo=helmetlogoColor=white&color=4F44D6" style="margin:5px" /> <img pxc="https://img.shields.io/badge/API Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/BackEnd Authentication-JWT-informational?style=flat&logo=jwt&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Query Builder-Knex.js-informational?style=flat&logo=knex.js&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=html&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=css&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd-LESS CSS-informational?style=flat&logo=less.css&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/JS Framework-React-informational?style=flat&logo=react&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/UI Components-ReactStrap-informational?style=flat&logo=reactstrap&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd Validation-React Validation-informational?style=flat&logo=reactvalidation&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd Validation-YUP-informational?style=flat&logo=yup&logoColor=white&color=4F44D6" style="margin:5px" />  <img src="https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/FrontEnd-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/State Management-Redux-informational?style=flat&logo=redux&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/UI Components-Ant Design-informational?style=flat&logo=antdesign&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/UI/UX Tool-Whimsical-informational?style=flat&logo=whimsical&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/DB Design & Modeling-DBDesigner-informational?style=flat&logo=dbdesign&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/BackEnd-PHP-informational?style=flat&logo=php&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/BackEnd-Python-informational?style=flat&logo=python&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Package Manager-NPM-informational?style=flat&logo=npm&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Package Manager-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/IDE-Visual Studio Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4F44D6" style="margin:5px" /> <img src="https://img.shields.io/badge/Online Editor-CodeSandbox-informational?style=flat&logo=codesandbox&logoColor=white&color=4F44D6" style="margin:5px" />
+#### 🛠️ Skills:
+- Troubleshooting, Help Desk Support, Communication, Next.js, React Native, Customer Support, Market Research, Documentation  
+- Fullstack Development, Heroku, Rende.com, GitHub, Flexbox, Whimsical, DBDesigner, Tailwind.css, Ant Design  
+- React Validator, Yup, Cypress, Web Development, React Strap, Microsoft Office and Excel  
+- Training, Management, Team Building, E-Commerce, Leadership  
 
+</td>
+<td valign="top" width="40%">
 
+<p align="center">
+    <img alt="Hello Kitty GIF" src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="90%" height="auto" style="margin-bottom: 20px;" />
+     <br /><br /> <!-- Add extra space between the images and badges -->
+    <img src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple" width="90%" style="margin-bottom: 20px;" />
+     <br /><br /> <!-- Add extra space between the images and badges -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true" width="90%" style="margin-bottom: 20px;" />
+    <br /><br /> <!-- Add extra space between the images and badges -->
+    <div align="center">
+        <img src="https://img.shields.io/github/followers/sarahmarie1976?style=social" alt="GitHub followers" />
+        <img src="https://komarev.com/ghpvc/?username=sarahmarie1976&color=blueviolet" alt="Profile views" />
+    </div>
+</p>
 
+</td>
+</tr>
+</table>
 
+#### :computer: Programming languages and tools: 
+<p>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://img.shields.io/badge/ASGI-Uvicorn-informational?style=flat&logo=uvicorn&logoColor=white&color=4F44D6"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Migrations-Alembic-informational?style=flat&logo=alembic&logoColor=white&color=4F44D6"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Security-Bcrypt-informational?style=flat&logo=bcrypt&logoColor=white&color=4F44D6"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/DataValidation-Pydantic-informational?style=flat&logo=pydantic&logoColor=white&color=4F44D6"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+</p>
 
-## 🤝 Connect with me: 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4F44D6)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
-[![Email Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:sholle7@gmail.com)
-[![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=4F44D6)](https://github.com/sarahmarie1976)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=4F44D6)](https://twitter.com/sholle7)
-
- 
-## 📚 Things that I am learning: 
- 
- Python,
- Java,
- Watercolor painting
- 
- ## GitHub Stats
-![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true)
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/sarahmarie1976)
-
+#### 🤝 Connect with me:
+- **LinkedIn:** [Sarahmarie Hollenstein](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
+- **Email:** [sholle7@gmail.com](mailto:sholle7@gmail.com)
+- **GitHub:** [sarahmarie1976](https://github.com/sarahmarie1976)
+- **Twitter:** [@sholle7](https://twitter.com/sholle7)
