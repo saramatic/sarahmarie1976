@@ -40,17 +40,19 @@ Welcome to my GitHub page! I am Sarahmarie Hollenstein, a creative soul passiona
 <td valign="top" width="40%">
 
 <p align="center">
+    <br /><br /> <!-- Add extra space between the images and badges -->
     <img alt="Hello Kitty GIF" src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="90%" height="auto" style="margin-bottom: 20px;" />
-     <br /><br /> <!-- Add extra space between the images and badges -->
+    <br /><br /> <!-- Add extra space between the images and badges -->
     <img src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple" width="90%" style="margin-bottom: 20px;" />
-     <br /><br /> <!-- Add extra space between the images and badges -->
+    <br /><br /> <!-- Add extra space between the images and badges -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true" width="90%" style="margin-bottom: 20px;" />
     <br /><br /> <!-- Add extra space between the images and badges -->
-    <div align="center">
-        <img src="https://img.shields.io/github/followers/sarahmarie1976?style=social" alt="GitHub followers" />
+    <div align="center" style="margin-top: 20px;">
+        <img src="https://img.shields.io/github/followers/sarahmarie1976?style=social" alt="GitHub followers" style="margin-right: 10px;" />
         <img src="https://komarev.com/ghpvc/?username=sarahmarie1976&color=blueviolet" alt="Profile views" />
     </div>
 </p>
+
 
 </td>
 </tr>
