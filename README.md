@@ -1,14 +1,13 @@
-### Hi there 👋  
-### I'm Sarahmarie Hollenstein!
-
-
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahmarie1976)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sholle7@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sholle7)
 
-Welcome to my GitHub page! I am Sarahmarie Hollenstein, a creative soul passionate about DIYs, cooking, drawing, and coding. I love exploring the creativity in programming and building projects that combine both my technical and artistic skills. I am a team player and always eager to learn more!
+### 🌟 Welcome to My GitHub Page! 🌟
+
+Hi, I'm **Sarahmarie Hollenstein** — a creative mind with a passion for DIY projects, cooking, drawing, and of course, coding! 🎨👩‍💻 I thrive on blending technical skills with artistic flair, always looking for new ways to infuse creativity into the world of programming. I'm a dedicated team player who loves to collaborate, learn, and grow alongside others in the tech community. 🚀✨
+
 
 <table>
 <tr>
