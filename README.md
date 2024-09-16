@@ -58,29 +58,31 @@ Hi, I'm **Sarahmarie Hollenstein** — a creative mind with a passion for DIY pr
 
 #### :computer: Programming languages and tools: 
 <p>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white" style="margin: 25px;"></code>
     <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" style="margin: 25px;"></code>
     <br />
-    <code><img width="10%" src="https://img.shields.io/badge/ASGI-Uvicorn-informational?style=flat&logo=uvicorn&logoColor=white&color=4F44D6"></code>
-    <code><img width="10%" src="https://img.shields.io/badge/Migrations-Alembic-informational?style=flat&logo=alembic&logoColor=white&color=4F44D6"></code>
-    <code><img width="10%" src="https://img.shields.io/badge/Security-Bcrypt-informational?style=flat&logo=bcrypt&logoColor=white&color=4F44D6"></code>
-    <code><img width="10%" src="https://img.shields.io/badge/DataValidation-Pydantic-informational?style=flat&logo=pydantic&logoColor=white&color=4F44D6"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Uvicorn-009688?style=for-the-badge&logo=uvicorn&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Alembic-1572B6?style=for-the-badge&logo=alembic&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Bcrypt-4CAF50?style=for-the-badge&logo=bcrypt&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Pydantic-FFD700?style=for-the-badge&logo=pydantic&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 25px;"></code>
     <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 25px;"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin: 25px;"></code>
 </p>
+
+
 
 #### 🤝 Connect with me:
 - **LinkedIn:** [Sarahmarie Hollenstein](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
